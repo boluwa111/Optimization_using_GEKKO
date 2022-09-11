@@ -1,1 +1,1 @@
-# this ia an example demonstrating the use of Gekko in solving a typical optimization problem
+# This is an example demonstrating the use of Gekko in solving a typical optimization problem
